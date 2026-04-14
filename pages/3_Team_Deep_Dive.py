@@ -7,7 +7,7 @@ import sqlite3
 # -----------------------
 st.set_page_config(page_title="Team Deep Dive", layout="wide")
 
-DB_PATH = "C:/Users/andys/PycharmProjects/FantasyFootball/MantasyFootbrawl.db"
+DB_PATH = "MantasyFootbrawl.db"
 
 # -----------------------
 # DB CONNECTION
