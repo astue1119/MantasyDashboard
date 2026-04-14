@@ -1,0 +1,1938 @@
+[
+  {
+    "player_id": 8565,
+    "name": "Matt Prater",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 22,
+    "status": ""
+  },
+  {
+    "player_id": 9265,
+    "name": "Matthew Stafford",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 95,
+    "status": ""
+  },
+  {
+    "player_id": 26686,
+    "name": "Travis Kelce",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 93,
+    "status": ""
+  },
+  {
+    "player_id": 26699,
+    "name": "Keenan Allen",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 65,
+    "status": ""
+  },
+  {
+    "player_id": 27535,
+    "name": "Mike Evans",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 93,
+    "status": ""
+  },
+  {
+    "player_id": 27581,
+    "name": "Davante Adams",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 94,
+    "status": ""
+  },
+  {
+    "player_id": 28188,
+    "name": "Chris Boswell",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 75,
+    "status": ""
+  },
+  {
+    "player_id": 28378,
+    "name": "Jason Myers",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 84,
+    "status": ""
+  },
+  {
+    "player_id": 28534,
+    "name": "Stefon Diggs",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 96,
+    "status": ""
+  },
+  {
+    "player_id": 28592,
+    "name": "Darren Waller",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 52
+  },
+  {
+    "player_id": 29235,
+    "name": "Jared Goff",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 93,
+    "status": ""
+  },
+  {
+    "player_id": 29269,
+    "name": "Hunter Henry",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 85,
+    "status": ""
+  },
+  {
+    "player_id": 29279,
+    "name": "Derrick Henry",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 29325,
+    "name": "Jacoby Brissett",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 72,
+    "status": ""
+  },
+  {
+    "player_id": 29369,
+    "name": "Dak Prescott",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 98,
+    "status": ""
+  },
+  {
+    "player_id": 29792,
+    "name": "Ka'imi Fairbairn",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 80,
+    "status": ""
+  },
+  {
+    "player_id": 30121,
+    "name": "Christian McCaffrey",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 30161,
+    "name": "Joe Mixon",
+    "status": "NFI-R",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 22
+  },
+  {
+    "player_id": 30180,
+    "name": "Alvin Kamara",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 81
+  },
+  {
+    "player_id": 30197,
+    "name": "Chris Godwin Jr.",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 66,
+    "status": ""
+  },
+  {
+    "player_id": 30199,
+    "name": "Kareem Hunt",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 61,
+    "status": ""
+  },
+  {
+    "player_id": 30259,
+    "name": "George Kittle",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 97
+  },
+  {
+    "player_id": 30295,
+    "name": "Aaron Jones Sr.",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 86
+  },
+  {
+    "player_id": 30614,
+    "name": "Taysom Hill",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 24
+  },
+  {
+    "player_id": 30971,
+    "name": "Baker Mayfield",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 92,
+    "status": ""
+  },
+  {
+    "player_id": 30972,
+    "name": "Saquon Barkley",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 30973,
+    "name": "Sam Darnold",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 55,
+    "status": ""
+  },
+  {
+    "player_id": 30977,
+    "name": "Josh Allen",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 100
+  },
+  {
+    "player_id": 30994,
+    "name": "DJ Moore",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 90,
+    "status": ""
+  },
+  {
+    "player_id": 31002,
+    "name": "Lamar Jackson",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 94,
+    "status": ""
+  },
+  {
+    "player_id": 31010,
+    "name": "Courtland Sutton",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 96,
+    "status": ""
+  },
+  {
+    "player_id": 31019,
+    "name": "Dallas Goedert",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 91,
+    "status": ""
+  },
+  {
+    "player_id": 31056,
+    "name": "Mark Andrews",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 84,
+    "status": ""
+  },
+  {
+    "player_id": 31107,
+    "name": "Dalton Schultz",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 55
+  },
+  {
+    "player_id": 31833,
+    "name": "Kyler Murray",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 26
+  },
+  {
+    "player_id": 31840,
+    "name": "T.J. Hockenson",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 62
+  },
+  {
+    "player_id": 31856,
+    "name": "Josh Jacobs",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 31868,
+    "name": "Deebo Samuel",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 93,
+    "status": ""
+  },
+  {
+    "player_id": 31883,
+    "name": "A.J. Brown",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 31896,
+    "name": "DK Metcalf",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 82,
+    "status": ""
+  },
+  {
+    "player_id": 31905,
+    "name": "David Montgomery",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 91,
+    "status": ""
+  },
+  {
+    "player_id": 31908,
+    "name": "Terry McLaurin",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 92,
+    "status": ""
+  },
+  {
+    "player_id": 31960,
+    "name": "Tony Pollard",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 90,
+    "status": ""
+  },
+  {
+    "player_id": 32231,
+    "name": "Jakobi Meyers",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 81,
+    "status": ""
+  },
+  {
+    "player_id": 32671,
+    "name": "Joe Burrow",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 97,
+    "status": ""
+  },
+  {
+    "player_id": 32676,
+    "name": "Justin Herbert",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 92,
+    "status": ""
+  },
+  {
+    "player_id": 32685,
+    "name": "Jerry Jeudy",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 62,
+    "status": ""
+  },
+  {
+    "player_id": 32687,
+    "name": "CeeDee Lamb",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 32692,
+    "name": "Justin Jefferson",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 32703,
+    "name": "Tee Higgins",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 98,
+    "status": ""
+  },
+  {
+    "player_id": 32704,
+    "name": "Michael Pittman Jr.",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 87,
+    "status": ""
+  },
+  {
+    "player_id": 32705,
+    "name": "D'Andre Swift",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 95,
+    "status": ""
+  },
+  {
+    "player_id": 32711,
+    "name": "Jonathan Taylor",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 32723,
+    "name": "Jalen Hurts",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 32725,
+    "name": "J.K. Dobbins",
+    "status": "IR-R",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 37
+  },
+  {
+    "player_id": 32803,
+    "name": "Colby Parkinson",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 26,
+    "status": ""
+  },
+  {
+    "player_id": 32887,
+    "name": "Jauan Jennings",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 93,
+    "status": ""
+  },
+  {
+    "player_id": 33100,
+    "name": "Rico Dowdle",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 89,
+    "status": ""
+  },
+  {
+    "player_id": 33113,
+    "name": "Juwan Johnson",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 73,
+    "status": ""
+  },
+  {
+    "player_id": 33389,
+    "name": "Trevor Lawrence",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 81,
+    "status": ""
+  },
+  {
+    "player_id": 33392,
+    "name": "Kyle Pitts Sr.",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 94,
+    "status": ""
+  },
+  {
+    "player_id": 33393,
+    "name": "Ja'Marr Chase",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 33394,
+    "name": "Jaylen Waddle",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 97
+  },
+  {
+    "player_id": 33398,
+    "name": "DeVonta Smith",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 97,
+    "status": ""
+  },
+  {
+    "player_id": 33413,
+    "name": "Travis Etienne Jr.",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 96,
+    "status": ""
+  },
+  {
+    "player_id": 33423,
+    "name": "Javonte Williams",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 96
+  },
+  {
+    "player_id": 33477,
+    "name": "Nico Collins",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 33495,
+    "name": "Michael Carter",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 45,
+    "status": ""
+  },
+  {
+    "player_id": 33500,
+    "name": "Amon-Ra St. Brown",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 33508,
+    "name": "Rhamondre Stevenson",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 81,
+    "status": ""
+  },
+  {
+    "player_id": 33514,
+    "name": "Chuba Hubbard",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 71,
+    "status": ""
+  },
+  {
+    "player_id": 33537,
+    "name": "Evan McPherson",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 58,
+    "status": ""
+  },
+  {
+    "player_id": 33538,
+    "name": "Kenneth Gainwell",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 72,
+    "status": ""
+  },
+  {
+    "player_id": 33781,
+    "name": "Riley Patterson",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 4,
+    "status": ""
+  },
+  {
+    "player_id": 33963,
+    "name": "Drake London",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 33965,
+    "name": "Garrett Wilson",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 68
+  },
+  {
+    "player_id": 33966,
+    "name": "Chris Olave",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 96
+  },
+  {
+    "player_id": 33967,
+    "name": "Jameson Williams",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 97,
+    "status": ""
+  },
+  {
+    "player_id": 33991,
+    "name": "Breece Hall",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 97
+  },
+  {
+    "player_id": 33996,
+    "name": "Kenneth Walker III",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 97,
+    "status": ""
+  },
+  {
+    "player_id": 33998,
+    "name": "Wan'Dale Robinson",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 82
+  },
+  {
+    "player_id": 34007,
+    "name": "George Pickens",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 34008,
+    "name": "Alec Pierce",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 59,
+    "status": ""
+  },
+  {
+    "player_id": 34010,
+    "name": "Trey McBride",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 34019,
+    "name": "James Cook III",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 34085,
+    "name": "Jake Ferguson",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 92,
+    "status": ""
+  },
+  {
+    "player_id": 34088,
+    "name": "Romeo Doubs",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 67,
+    "status": ""
+  },
+  {
+    "player_id": 34104,
+    "name": "Khalil Shakir",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 80,
+    "status": ""
+  },
+  {
+    "player_id": 34107,
+    "name": "Tyler Allgeier",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 36,
+    "status": ""
+  },
+  {
+    "player_id": 34120,
+    "name": "Kyren Williams",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 34207,
+    "name": "Isiah Pacheco",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 62,
+    "status": ""
+  },
+  {
+    "player_id": 34218,
+    "name": "Brock Purdy",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 91,
+    "status": ""
+  },
+  {
+    "player_id": 34320,
+    "name": "Jordan Mason",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 67,
+    "status": ""
+  },
+  {
+    "player_id": 34344,
+    "name": "Cameron Dicker",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 87,
+    "status": ""
+  },
+  {
+    "player_id": 34447,
+    "name": "Jaylen Warren",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 95,
+    "status": ""
+  },
+  {
+    "player_id": 40039,
+    "name": "Zay Flowers",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 98,
+    "status": ""
+  },
+  {
+    "player_id": 40041,
+    "name": "Jaxon Smith-Njigba",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 40042,
+    "name": "Jordan Addison",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 77,
+    "status": ""
+  },
+  {
+    "player_id": 40048,
+    "name": "Dalton Kincaid",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 74
+  },
+  {
+    "player_id": 40051,
+    "name": "Quentin Johnston",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 65,
+    "status": ""
+  },
+  {
+    "player_id": 40055,
+    "name": "Bijan Robinson",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 40059,
+    "name": "Jahmyr Gibbs",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 40063,
+    "name": "Jayden Reed",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 47,
+    "status": ""
+  },
+  {
+    "player_id": 40075,
+    "name": "Zach Charbonnet",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 79
+  },
+  {
+    "player_id": 40078,
+    "name": "Brenton Strange",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 72,
+    "status": ""
+  },
+  {
+    "player_id": 40084,
+    "name": "Rashee Rice",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 85
+  },
+  {
+    "player_id": 40095,
+    "name": "Tank Bigsby",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 19,
+    "status": ""
+  },
+  {
+    "player_id": 40102,
+    "name": "Tucker Kraft",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 32
+  },
+  {
+    "player_id": 40114,
+    "name": "Tre Tucker",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 52,
+    "status": ""
+  },
+  {
+    "player_id": 40118,
+    "name": "De'Von Achane",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 40119,
+    "name": "Tyjae Spears",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 28,
+    "status": ""
+  },
+  {
+    "player_id": 40121,
+    "name": "Michael Wilson",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 89,
+    "status": ""
+  },
+  {
+    "player_id": 40168,
+    "name": "Puka Nacua",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  {
+    "player_id": 40196,
+    "name": "Chase Brown",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 40224,
+    "name": "Kayshon Boutte",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 25,
+    "status": ""
+  },
+  {
+    "player_id": 40231,
+    "name": "Chris Rodriguez Jr.",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 29,
+    "status": ""
+  },
+  {
+    "player_id": 40234,
+    "name": "Parker Washington",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 38,
+    "status": ""
+  },
+  {
+    "player_id": 40430,
+    "name": "Emari Demercado",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 12,
+    "status": ""
+  },
+  {
+    "player_id": 40742,
+    "name": "Sean Tucker",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 20,
+    "status": ""
+  },
+  {
+    "player_id": 40819,
+    "name": "Brandon Aubrey",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 40835,
+    "name": "Jake Bates",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 93,
+    "status": ""
+  },
+  {
+    "player_id": 40875,
+    "name": "Bo Nix",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 93
+  },
+  {
+    "player_id": 40877,
+    "name": "Xavier Worthy",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 84
+  },
+  {
+    "player_id": 40881,
+    "name": "Drake Maye",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 98,
+    "status": ""
+  },
+  {
+    "player_id": 40883,
+    "name": "Brian Thomas Jr.",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 95,
+    "status": ""
+  },
+  {
+    "player_id": 40892,
+    "name": "Ricky Pearsall",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 65,
+    "status": ""
+  },
+  {
+    "player_id": 40893,
+    "name": "Marvin Harrison Jr.",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 94
+  },
+  {
+    "player_id": 40900,
+    "name": "Caleb Williams",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 81,
+    "status": ""
+  },
+  {
+    "player_id": 40901,
+    "name": "Rome Odunze",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 82,
+    "status": ""
+  },
+  {
+    "player_id": 40908,
+    "name": "Ladd McConkey",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 98,
+    "status": ""
+  },
+  {
+    "player_id": 40911,
+    "name": "Keon Coleman",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 29,
+    "status": ""
+  },
+  {
+    "player_id": 40958,
+    "name": "Trey Benson",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 35
+  },
+  {
+    "player_id": 40962,
+    "name": "Blake Corum",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 46,
+    "status": ""
+  },
+  {
+    "player_id": 40981,
+    "name": "Braelon Allen",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 16
+  },
+  {
+    "player_id": 40993,
+    "name": "Bucky Irving",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 41010,
+    "name": "Jaylen Wright",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 14,
+    "status": ""
+  },
+  {
+    "player_id": 41048,
+    "name": "Tyrone Tracy Jr.",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 90,
+    "status": ""
+  },
+  {
+    "player_id": 41052,
+    "name": "Kimani Vidal",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 55,
+    "status": ""
+  },
+  {
+    "player_id": 41093,
+    "name": "Will Reichard",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 24,
+    "status": ""
+  },
+  {
+    "player_id": 41791,
+    "name": "Ashton Jeanty",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  {
+    "player_id": 41793,
+    "name": "Tetairoa McMillan",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 97,
+    "status": ""
+  },
+  {
+    "player_id": 41795,
+    "name": "Colston Loveland",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 50
+  },
+  {
+    "player_id": 41799,
+    "name": "Tyler Warren",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 96,
+    "status": ""
+  },
+  {
+    "player_id": 41804,
+    "name": "Emeka Egbuka",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 94,
+    "status": ""
+  },
+  {
+    "player_id": 41807,
+    "name": "Omarion Hampton",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 95,
+    "status": ""
+  },
+  {
+    "player_id": 41808,
+    "name": "Matthew Golden",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 33,
+    "status": ""
+  },
+  {
+    "player_id": 41810,
+    "name": "Jaxson Dart",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 70,
+    "status": ""
+  },
+  {
+    "player_id": 41819,
+    "name": "Jayden Higgins",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 38,
+    "status": ""
+  },
+  {
+    "player_id": 41821,
+    "name": "Quinshon Judkins",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 72
+  },
+  {
+    "player_id": 41823,
+    "name": "TreVeyon Henderson",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 96,
+    "status": ""
+  },
+  {
+    "player_id": 41824,
+    "name": "Luther Burden III",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 25,
+    "status": ""
+  },
+  {
+    "player_id": 41825,
+    "name": "Tyler Shough",
+    "position_type": "O",
+    "eligible_positions": [
+      "QB"
+    ],
+    "percent_owned": 21,
+    "status": ""
+  },
+  {
+    "player_id": 41845,
+    "name": "RJ Harvey",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 95,
+    "status": ""
+  },
+  {
+    "player_id": 41860,
+    "name": "Pat Bryant",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 3
+  },
+  {
+    "player_id": 41877,
+    "name": "Harold Fannin Jr.",
+    "status": "Q",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 78
+  },
+  {
+    "player_id": 41881,
+    "name": "Kaleb Johnson",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 15,
+    "status": ""
+  },
+  {
+    "player_id": 41900,
+    "name": "Bhayshul Tuten",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 32,
+    "status": ""
+  },
+  {
+    "player_id": 41902,
+    "name": "Woody Marks",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 77,
+    "status": ""
+  },
+  {
+    "player_id": 41922,
+    "name": "Cam Skattebo",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 24
+  },
+  {
+    "player_id": 41951,
+    "name": "Oronde Gadsden",
+    "position_type": "O",
+    "eligible_positions": [
+      "TE",
+      "W/R/T"
+    ],
+    "percent_owned": 44,
+    "status": ""
+  },
+  {
+    "player_id": 41969,
+    "name": "Ollie Gordon II",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 7,
+    "status": ""
+  },
+  {
+    "player_id": 41972,
+    "name": "Devin Neal",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 33
+  },
+  {
+    "player_id": 41980,
+    "name": "Andy Borregales",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 23,
+    "status": ""
+  },
+  {
+    "player_id": 41988,
+    "name": "Tyler Loop",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 65,
+    "status": ""
+  },
+  {
+    "player_id": 42010,
+    "name": "Jacory Croskey-Merritt",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 53,
+    "status": ""
+  },
+  {
+    "player_id": 42025,
+    "name": "Kyle Monangai",
+    "position_type": "O",
+    "eligible_positions": [
+      "RB",
+      "W/R/T"
+    ],
+    "percent_owned": 62,
+    "status": ""
+  },
+  {
+    "player_id": 99001,
+    "name": "Travis Hunter",
+    "status": "IR",
+    "position_type": "O",
+    "eligible_positions": [
+      "WR",
+      "W/R/T"
+    ],
+    "percent_owned": 30
+  },
+  {
+    "player_id": 100007,
+    "name": "Broncos",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 98,
+    "status": ""
+  },
+  {
+    "player_id": 100008,
+    "name": "Lions",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 74,
+    "status": ""
+  },
+  {
+    "player_id": 100014,
+    "name": "Rams",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 61,
+    "status": ""
+  },
+  {
+    "player_id": 100017,
+    "name": "Patriots",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 77,
+    "status": ""
+  },
+  {
+    "player_id": 100019,
+    "name": "Giants",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 18,
+    "status": ""
+  },
+  {
+    "player_id": 100023,
+    "name": "Steelers",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 84,
+    "status": ""
+  },
+  {
+    "player_id": 100024,
+    "name": "Chargers",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 43,
+    "status": ""
+  },
+  {
+    "player_id": 100025,
+    "name": "49ers",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 32,
+    "status": ""
+  },
+  {
+    "player_id": 100026,
+    "name": "Seahawks",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 87,
+    "status": ""
+  },
+  {
+    "player_id": 100027,
+    "name": "Buccaneers",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 42,
+    "status": ""
+  },
+  {
+    "player_id": 100030,
+    "name": "Jaguars",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 52,
+    "status": ""
+  },
+  {
+    "player_id": 100033,
+    "name": "Ravens",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 44,
+    "status": ""
+  },
+  {
+    "player_id": 100034,
+    "name": "Texans",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 92,
+    "status": ""
+  }
+]
